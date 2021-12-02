@@ -1,2 +1,1 @@
-# example
 Educational projects
